@@ -1,0 +1,15 @@
+C:\Users\JOAO\Documents\ADMIRO\Projectos\VS Code\C#\difDatas\bin\Debug\net6.0\difDatas.exe
+C:\Users\JOAO\Documents\ADMIRO\Projectos\VS Code\C#\difDatas\bin\Debug\net6.0\difDatas.deps.json
+C:\Users\JOAO\Documents\ADMIRO\Projectos\VS Code\C#\difDatas\bin\Debug\net6.0\difDatas.runtimeconfig.json
+C:\Users\JOAO\Documents\ADMIRO\Projectos\VS Code\C#\difDatas\bin\Debug\net6.0\difDatas.dll
+C:\Users\JOAO\Documents\ADMIRO\Projectos\VS Code\C#\difDatas\bin\Debug\net6.0\difDatas.pdb
+C:\Users\JOAO\Documents\ADMIRO\Projectos\VS Code\C#\difDatas\obj\Debug\net6.0\difDatas.csproj.AssemblyReference.cache
+C:\Users\JOAO\Documents\ADMIRO\Projectos\VS Code\C#\difDatas\obj\Debug\net6.0\difDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOAO\Documents\ADMIRO\Projectos\VS Code\C#\difDatas\obj\Debug\net6.0\difDatas.AssemblyInfoInputs.cache
+C:\Users\JOAO\Documents\ADMIRO\Projectos\VS Code\C#\difDatas\obj\Debug\net6.0\difDatas.AssemblyInfo.cs
+C:\Users\JOAO\Documents\ADMIRO\Projectos\VS Code\C#\difDatas\obj\Debug\net6.0\difDatas.csproj.CoreCompileInputs.cache
+C:\Users\JOAO\Documents\ADMIRO\Projectos\VS Code\C#\difDatas\obj\Debug\net6.0\difDatas.dll
+C:\Users\JOAO\Documents\ADMIRO\Projectos\VS Code\C#\difDatas\obj\Debug\net6.0\refint\difDatas.dll
+C:\Users\JOAO\Documents\ADMIRO\Projectos\VS Code\C#\difDatas\obj\Debug\net6.0\difDatas.pdb
+C:\Users\JOAO\Documents\ADMIRO\Projectos\VS Code\C#\difDatas\obj\Debug\net6.0\difDatas.genruntimeconfig.cache
+C:\Users\JOAO\Documents\ADMIRO\Projectos\VS Code\C#\difDatas\obj\Debug\net6.0\ref\difDatas.dll

@@ -1,0 +1,1 @@
+este programa, calcula a diferença de duas datas. E apresenta na tela
